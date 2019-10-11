@@ -19,3 +19,7 @@ h3 {
   font-family: Georgia, serif;
   color: #3fbac2;
 }
+
+.circular {
+  border-radius: 100%;
+}
